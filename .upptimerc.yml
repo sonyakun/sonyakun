@@ -4,7 +4,7 @@ repo: sonyakun # The name of this repository
 
 sites:
   - name: BedrockConnect
-    url: https://bcstat.sonyakun.com:50212
+    url: http://bcstat.sonyakun.com:50212
 
 status-website:
   # カスタムドメイン名を追加するか、ドメインがない場合は「cname」行を削除します
